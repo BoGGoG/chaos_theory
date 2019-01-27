@@ -1,9 +1,13 @@
+<!--using this web service-->
+<!--https://www.codecogs.com/latex/eqneditor.php-->
+<!--to make latex equations-->
 # Chaos Theory
 This is an easy python program for showing how the logistic map leads to chaos.
 
 ## Sources
 - https://en.wikipedia.org/wiki/Logistic_map
 - http://code.activestate.com/recipes/577332-bifurcation-diagram-of-logistic-map/
+- https://www.codecogs.com/latex/eqneditor.php for <a href="https://www.codecogs.com/eqnedit.php?latex=\LaTeX{}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\LaTeX{}" title="\LaTeX{}" /></a> equations in the Readme
 
 ## Theory
 The logistic map
