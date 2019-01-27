@@ -14,4 +14,4 @@ describes a population of relative size <a href="https://www.codecogs.com/eqnedi
 The population at time step <a href="https://www.codecogs.com/eqnedit.php?latex=$x_{n+1}$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x_{n+1}$" title="$x_n$" /></a> only depends on the reproduction/starvation parameter r and the previous population <a href="https://www.codecogs.com/eqnedit.php?latex=$x_n$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$x_n$" title="$x_n$" /></a>.
 Reproduction and starvation are at a constant fight and the parameter r represents this. 
 
-Depending on $r$ we get different population sizes for late times, see (Wiki)[https://en.wikipedia.org/wiki/Logistic_map]
+Depending on r we get different population sizes for late times, see (Wiki)[https://en.wikipedia.org/wiki/Logistic_map]
